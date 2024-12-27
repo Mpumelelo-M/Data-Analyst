@@ -7,7 +7,7 @@ Data Cleaning and Preparation: Proficient in ensuring data integrity and transfo
 Statistical Analysis: Applying statistical methods to identify trends, correlations, and actionable insights.
 Machine Learning: Utilizing algorithms for predictive analysis and data-driven decision-making.
 
-##Tableau
+## Tableau
 **Tableau Profile** : https://public.tableau.com/app/profile/mpumelelo.madisha7740/vizzes
 
 Feel free to explore my Tableau dashboards, which demonstrate my ability to visualize complex datasets and make insights accessible to all stakeholders.
